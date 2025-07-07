@@ -1,0 +1,26 @@
+Task,Status
+Scaffold backend project with FastAPI and CORS,To Do
+"Set up PostgreSQL + schema for jobs, customers, techs, invoices",To Do
+Set up Supabase or S3 for photo + signature uploads,To Do
+Implement /api/intake/call with Twilio + Whisper + GPT,To Do
+Create language detection + prompt selection logic (EN/ES),To Do
+Write structured GPT prompt for job intake,To Do
+Build /api/dispatch route with technician scoring logic,To Do
+"Create technician JSON with skills, zip, availability",To Do
+Design mobile-first form at /onsite/[jobId] (Next.js),In Progress
+Implement photo + signature + materials capture,In Progress
+Capture job start/end timestamps and submit data to backend,In Progress
+Generate invoice PDF from job data,In Progress
+Create Stripe invoice link + send via SMS/email,In Progress
+Add fallback text for failed payments or customer ghosting,In Progress
+Define complete data structure (job_card.json),Done
+Generate prompt pack for Codex (8 Markdown modules),Done
+Write README with dev stack and build sequence,Done
+Finalize bilingual JSON format for translation,Done
+Create Notion or Airtable mock for job reports,Done
+Define repeat customer logic and seasonal remarketing flags,Done
+Auto-post job summaries for SEO,Later
+Add voice-based interface for field techs (TTS),Later
+"Build CRM integrations (e.g. ServiceTitan, HubSpot)",Later
+Add tech leaderboard and incentive system,Later
+Fine-tune LLMs on job summaries over time,Later

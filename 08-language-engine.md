@@ -1,0 +1,3 @@
+# OpsPilot Prompt 08: Language & Localization Engine
+
+...

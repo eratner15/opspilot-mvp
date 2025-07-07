@@ -1,0 +1,3 @@
+# OpsPilot Prompt 07: Admin Dashboard UI
+
+...
